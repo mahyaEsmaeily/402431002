@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714941761 source:c:\users\test\desktop\git\402431002\mabnaye2\mabnaye2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
